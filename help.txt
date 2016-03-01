@@ -1,0 +1,14 @@
+
+C console application with Database with excel:-
+
+Requirement:
+-Ms Excel
+-Dev c++  5.4.1
+-MS Word
+
+Qaulity:-
+-this is the system which is used by the any nerolac product seller at shop.
+
+-it is quite easy to use at all.
+
+-you can even close the apps but the data will store in the database...
